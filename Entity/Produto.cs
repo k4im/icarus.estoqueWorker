@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.RegularExpressions;
 
 namespace icarus.estoqueWorker.Entity;
 public class Produto
