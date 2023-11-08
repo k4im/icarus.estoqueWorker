@@ -4,7 +4,7 @@ namespace icarus.estoqueWorker;
 
 public class Worker : BackgroundService
 {
-    private readonly ServiceProvider _provider;
+    private readonly IServiceProvider _provider;
 
     public Worker(ServiceProvider provider)
     {
