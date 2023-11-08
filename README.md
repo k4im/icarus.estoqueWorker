@@ -27,6 +27,6 @@ Para fazer o deploy desse projeto através do dotnet
 Para fazer o deploy desse projeto através do docker
 
 ```bash
-  docker run k4im:/worker-projeto:v0.1
+  docker run k4im:/worker-estoque:v0.1
 ```
 
