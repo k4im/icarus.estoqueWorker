@@ -4,7 +4,10 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development"
+        "DOTNET_ENVIRONMENT": "Development",
+        "DB_CONNECTION": "Server=localhost;Uid=root;Password=Xaes@$1412;Database=IC_Projetos;Port=3306",
+        "RABBIT_MQ_USER": "root",
+        "RABBIT_MQ_PWD": "Wg17*tse86"
       }
     }
   }
