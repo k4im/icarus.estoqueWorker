@@ -6,7 +6,7 @@ public class Worker : BackgroundService
 {
     private readonly IServiceProvider _provider;
 
-    public Worker(ServiceProvider provider)
+    public Worker(IServiceProvider provider)
     {
         _provider = provider;
     }
